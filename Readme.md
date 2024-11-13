@@ -73,8 +73,6 @@ This project is designed to demonstrate SQL skills and techniques typically used
               total_sale IS NULL 
 
 ## 3. Data Analysis & Findings
-The following SQL queries were developed to answer specific business questions:
-
 Write a SQL query to retrieve all columns for sales made on '2022-11-05:
 
       select *
